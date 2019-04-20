@@ -21,3 +21,5 @@ The application stores user input in an object that is pushed in an array of obj
 The application calculates the total scores from the user and compare the results with other users's data in the database to suggest a friend. 
 
 The application suggests a best match where the difference between the user score and that of each element in the database is smaller. 
+
+visit this link to demo the application: [FriendFinder on Heroku](https://searchfriends.herokuapp.com/)
